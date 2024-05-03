@@ -1,4 +1,4 @@
-# Ride-Hailing Price Prediction with Linear Regression
+# Ride-Hailing Price Prediction
 
 ## Overview
 
